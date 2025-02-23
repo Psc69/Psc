@@ -1,2 +1,0 @@
-# Psc
-read me smth
